@@ -15,6 +15,9 @@ The project combines:
 using real Spotify review data and a synthetic product usage dataset.
 
 ---
+## 🔗 Live Demo
+
+👉 https://spotify-dashboard-pulse.streamlit.app/
 
 ## 🚀 Features
 
@@ -197,49 +200,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-(Add Screenshot)
-
----
-
-## Product Analytics
-
-(Add Screenshot)
-
----
-
-## Feature Usage
-
-(Add Screenshot)
-
----
-
-## Feedback Center
-
-(Add Screenshot)
-
----
-
-## Complaint Trends
-
-(Add Screenshot)
-
----
-
-## AI Feedback Analyzer
-
-(Add Screenshot)
-
----
-
-## Feature Prioritization
-
-(Add Screenshot)
-
----
 
 # 🔮 Future Improvements
 
@@ -267,6 +227,7 @@ Through this project, I gained experience with:
 - Interactive Data Applications
 
 ---
+
 
 # 👩‍💻 Author
 
