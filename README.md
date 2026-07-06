@@ -177,7 +177,7 @@ Feature Prioritization
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ProductPulse-AI.git
+git clone https://github.com/dhriti200/ProductPulse-AI.git
 ```
 
 Move into the project
